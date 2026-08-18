@@ -10,15 +10,34 @@
  */
 class Solution {
 public:
+//method 1 ;
+    // ListNode* middleNode(ListNode* head) {
+    //     vector<ListNode*>v;
+    //     ListNode* temp = head ;
+    //     while(temp!=NULL){
+    //         v.push_back(temp) ;
+    //         temp=temp->next;
+    //     }
+
+    //     int n = v.size();
+    //     return v[n/2] ;
+    // }
+//Method 2 ;
     ListNode* middleNode(ListNode* head) {
-        vector<ListNode*>v;
-        ListNode* temp = head ;
+        int n = 0 ; 
+        ListNode* temp=head ;
         while(temp!=NULL){
-            v.push_back(temp) ;
-            temp=temp->next;
+            n++;
+            temp=temp->next ;
+        }
+        int c=0;
+        temp = head ;
+        while(c<n/2){
+            temp = temp->next ;
+            c++;
         }
 
-        int n = v.size();
-        return v[n/2] ;
+        return temp ;
+
     }
 };
