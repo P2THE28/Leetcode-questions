@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/P2THE28/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/P2THE28/Leetcode-questions/tree/master/0075-sort-colors) |
+| [0876-middle-of-the-linked-list](https://github.com/P2THE28/Leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/P2THE28/Leetcode-questions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/P2THE28/Leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
