@@ -23,21 +23,33 @@ public:
     //     return v[n/2] ;
     // }
 //Method 2 ;
+    // ListNode* middleNode(ListNode* head) {
+    //     int n = 0 ; 
+    //     ListNode* temp=head ;
+    //     while(temp!=NULL){
+    //         n++;
+    //         temp=temp->next ;
+    //     }
+    //     int c=0;
+    //     temp = head ;
+    //     while(c<n/2){
+    //         temp = temp->next ;
+    //         c++;
+    //     }
+
+    //     return temp ;
+
+    // }
+
+//Method 3 - fast and slow methode ;
     ListNode* middleNode(ListNode* head) {
-        int n = 0 ; 
-        ListNode* temp=head ;
-        while(temp!=NULL){
-            n++;
-            temp=temp->next ;
+        ListNode* slow=head ;
+        ListNode* fast=head ;
+        while(fast!=NULL && fast->next!=NULL){
+            slow=slow->next ;
+            fast=fast->next->next ;
         }
-        int c=0;
-        temp = head ;
-        while(c<n/2){
-            temp = temp->next ;
-            c++;
-        }
-
-        return temp ;
-
+        return slow ;
     }
+    
 };
