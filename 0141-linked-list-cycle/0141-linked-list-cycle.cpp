@@ -12,19 +12,14 @@ public:
         ListNode *t1 = head ;
         ListNode *t2 = head ;
         bool found = false ;
-        while(t1!=NULL && t2!=NULL && t1->next!=NULL && t2->next!=NULL){
+        while(t2!=NULL && t2->next!=NULL){
             t1=t1->next ;
             t2=t2->next->next ;
             if(t1==t2){
-                found = true ; 
-                break ; 
+                return true ;
             }
         }
 
-        if(found == true){
-            return true ;
-        }else {
-            return false ;
-        }
+        return false ;
     }
 };
