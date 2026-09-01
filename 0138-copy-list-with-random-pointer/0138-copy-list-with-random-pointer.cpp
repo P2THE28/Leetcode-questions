@@ -20,6 +20,7 @@ public:
         Node* head1 = NULL ;
         Node* tail = NULL ; 
         Node*temp=head ;
+        unordered_map<Node*,Node*> m ;
         while(temp!=NULL){
             Node* newNode = new Node(temp->val) ;
             if(head1==NULL){
@@ -29,26 +30,41 @@ public:
                 tail->next=newNode ;
                 tail = newNode ;
             }
+            m[temp]=newNode ;
             temp=temp->next ;
+           
         }
         Node* t1 =head ;
         Node* t2 =head1 ;
+    //method1 ;
+        // while(t1!=NULL){
+        //     Node* temp1=head;
+        //     Node* temp2=head1;
+        //     if(t1->random==NULL){
+        //         t2->random=NULL ;
+        //     }else{
+        //         while(t1->random!=temp1){
+        //             temp1=temp1->next ;
+        //             temp2=temp2->next ;
+        //         }
+        //         t2->random=temp2;
+        //     }
+        //     t1=t1->next ;
+        //     t2=t2->next ;
+        // }
 
+    //Method 2 ;
         while(t1!=NULL){
-            Node* temp1=head;
-            Node* temp2=head1;
             if(t1->random==NULL){
                 t2->random=NULL ;
             }else{
-                while(t1->random!=temp1){
-                    temp1=temp1->next ;
-                    temp2=temp2->next ;
-                }
-                t2->random=temp2;
+                t2->random=m[t1->random];
             }
+            
             t1=t1->next ;
-            t2=t2->next ;
+            t2=t2->next ; 
         }
+
         return head1 ;
     }
 };
