@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/P2THE28/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3870-count-commas-in-range](https://github.com/P2THE28/Leetcode-questions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/3871-count-commas-in-range-ii) |
 ## Sliding Window
 |  |
 | ------- |
