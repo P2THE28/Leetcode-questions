@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/P2THE28/Leetcode-questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/P2THE28/Leetcode-questions/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -104,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/P2THE28/Leetcode-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/P2THE28/Leetcode-questions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/P2THE28/Leetcode-questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
