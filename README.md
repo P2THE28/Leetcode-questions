@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/P2THE28/Leetcode-questions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/P2THE28/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/P2THE28/Leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/P2THE28/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1943-describe-the-painting](https://github.com/P2THE28/Leetcode-questions/tree/master/1943-describe-the-painting) |
 ## Backtracking
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/P2THE28/Leetcode-questions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/P2THE28/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/P2THE28/Leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/P2THE28/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/P2THE28/Leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
