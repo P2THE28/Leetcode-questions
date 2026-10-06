@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/P2THE28/Leetcode-questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/P2THE28/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/P2THE28/Leetcode-questions/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/P2THE28/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/P2THE28/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1943-describe-the-painting](https://github.com/P2THE28/Leetcode-questions/tree/master/1943-describe-the-painting) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/P2THE28/Leetcode-questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/P2THE28/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/P2THE28/Leetcode-questions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/P2THE28/Leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/P2THE28/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/P2THE28/Leetcode-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/P2THE28/Leetcode-questions/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/P2THE28/Leetcode-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Stack
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/P2THE28/Leetcode-questions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/P2THE28/Leetcode-questions/tree/master/0155-min-stack) |
 ## Range Minimum/Maximum Query
 |  |
