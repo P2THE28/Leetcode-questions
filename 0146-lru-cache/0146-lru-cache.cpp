@@ -22,12 +22,8 @@ public :
         tail = NULL ; 
     }
 
-    Node* create(int key , int data){
-        return (new Node(key,data)) ;
-    }
-
     Node* insert(int key , int data){
-        Node* newNode=create(key,data) ;
+        Node* newNode= new Node(key,data) ;
         if(head==NULL){
             tail = head = newNode ;
         }else{
@@ -46,13 +42,7 @@ public :
         if(node==head) head = Next ; 
         if(node==tail) tail = Pre ; 
         delete node ; 
-        return ; 
     }
-
-    int display(Node* key){
-        return (key->data) ;
-    }
-
 };
 
 
@@ -69,10 +59,10 @@ public:
     Dlist dl ;
     int get(int key) {
         if(m.find(key)==m.end()) return -1 ; 
-        int value =  dl.display(m[key]) ; 
+        int value = m[key]->data ;
         dl.remove(m[key]);
         m[key]=dl.insert(key,value) ; 
-        return value ; 
+        return m[key]->data ; 
     }
     
     void put(int key, int value) {
