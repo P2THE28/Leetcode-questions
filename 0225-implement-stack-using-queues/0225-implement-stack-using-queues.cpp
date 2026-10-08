@@ -8,41 +8,25 @@ public :
     }
 
     void push(int value){
-        q1.push(value) ;
-        return ; 
-    }
-
-    int pop(){
-        while(q1.size()!=1){
+        while(q1.size()!=0){
             q2.push(q1.front()) ;
             q1.pop() ;
         }
-
-        int ans = q1.front() ;
-        q1.pop() ;
-
+        q1.push(value) ;
         while(q2.empty()==false){
             q1.push(q2.front()) ;
             q2.pop() ;
         }
+    }
 
+    int pop(){
+        int ans = q1.front() ;
+        q1.pop() ;
         return ans ; 
     }
 
     int top(){
-        while(q1.size()!=1){
-            q2.push(q1.front()) ;
-            q1.pop() ;
-        }
-
-        int ans = q1.front()  ;
-        q2.push(q1.front()) ;
-        q1.pop() ;
-
-        while(q2.empty()==false){
-            q1.push(q2.front()) ;
-            q2.pop() ;
-        }
+        int ans = q1.front() ;
         return ans ; 
     }
     
