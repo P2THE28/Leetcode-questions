@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/P2THE28/Leetcode-questions/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/P2THE28/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/P2THE28/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/P2THE28/Leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/P2THE28/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/P2THE28/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/P2THE28/Leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/P2THE28/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 ## Queue
 |  |
 | ------- |
