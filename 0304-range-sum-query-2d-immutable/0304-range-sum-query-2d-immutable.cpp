@@ -1,7 +1,7 @@
 class NumMatrix {
 public:
-    vector<vector<int>> v ; 
-    NumMatrix(vector<vector<int>>& matrix) {
+    vector<vector<int>> &v ; 
+    NumMatrix(vector<vector<int>>& matrix) : v(matrix) {
         v=matrix ; 
         for(int r = 0 ; r < matrix.size() ;r++){
             for(int c = 0 ; c < matrix[0].size() ; c++){
