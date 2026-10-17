@@ -3,6 +3,7 @@ public:
     int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
         int n = gas.size() ;
         int tsum = 0 ; 
+        int csum = 0 ; 
         int station =  0 ; 
         // for(int i = 0 ;i < n ;i ++) {
         //     gas[i]=gas[i]-cost[i] ;
@@ -26,18 +27,15 @@ public:
         //         p++;
         //     }
         //     return en.front() ;
-        for(int i = 0 ; i < n ; i++){
-            tsum+=gas[i]-cost[i] ;
-        }
-        if(tsum<0) return -1 ; 
-        tsum = 0 ; 
         for(int i = 0 ; i < n; i++){
             tsum+=gas[i]-cost[i] ;
-            if(tsum<0){
-                tsum=0 ;
+            csum+=gas[i]-cost[i] ;
+            if(csum<0){
+                csum=0 ;
                 station=i+1 ;
             }
         }
+        if(tsum<0) return -1 ; 
         return station ;
     }
 };
