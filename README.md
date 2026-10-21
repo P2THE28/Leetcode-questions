@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/P2THE28/Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/P2THE28/Leetcode-questions/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/P2THE28/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2523-closest-prime-numbers-in-range](https://github.com/P2THE28/Leetcode-questions/tree/master/2523-closest-prime-numbers-in-range) |
 | [3870-count-commas-in-range](https://github.com/P2THE28/Leetcode-questions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/3871-count-commas-in-range-ii) |
 ## Sliding Window
@@ -236,4 +237,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/P2THE28/Leetcode-questions/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/P2THE28/Leetcode-questions/tree/master/2523-closest-prime-numbers-in-range) |
+## Primality Test
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/P2THE28/Leetcode-questions/tree/master/2523-closest-prime-numbers-in-range) |
+## Sieve Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/P2THE28/Leetcode-questions/tree/master/2523-closest-prime-numbers-in-range) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/P2THE28/Leetcode-questions/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
