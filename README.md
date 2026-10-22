@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/P2THE28/Leetcode-questions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/P2THE28/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/P2THE28/Leetcode-questions/tree/master/0134-gas-station) |
+| [0162-find-peak-element](https://github.com/P2THE28/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/P2THE28/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/P2THE28/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/P2THE28/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/P2THE28/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 ## Matrix
 |  |
