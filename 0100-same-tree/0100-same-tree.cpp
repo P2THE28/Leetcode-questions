@@ -11,30 +11,11 @@
  */
 class Solution {
 public:
-    void bfs(vector<int>& arr , queue<TreeNode*>& qe , TreeNode* root){
-        qe.push(root) ;
-        while(qe.size()>0){
-            TreeNode* curr = qe.front() ;
-            qe.pop() ;
-            if(curr==NULL){
-                arr.push_back(1e4+1) ;
-                continue ; 
-            }else{
-                arr.push_back(curr->val) ;
-            }
-            qe.push(curr->left) ; 
-            qe.push(curr->right) ; 
-        }
-        return ; 
-    }
-
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        vector<int> arr1 ; 
-        vector<int> arr2 ; 
-        queue<TreeNode*> qe ; 
-        bfs(arr1,qe,p) ;
-        bfs(arr2,qe,q) ;
+        if(p==NULL || q==NULL ) return p==q ; 
 
-        return arr1==arr2 ;  
+        bool leftsame= isSameTree(p->left,q->left) ;
+        bool rightsame = isSameTree(p->right,q->right) ;
+        return leftsame && rightsame && (p->val==q->val) ;
     }
 };
