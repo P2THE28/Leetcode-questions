@@ -15,6 +15,7 @@ public:
         if(root==NULL) return ; 
         if(root==p || root==q){
             ans.push_back(arr) ;
+            return ; 
         }
         arr.push_back(root->left) ; 
         search(root->left,p,q,arr);
@@ -31,6 +32,7 @@ public:
         arr.push_back(root) ;
         search(root,p,q,arr) ;
         TreeNode* node = NULL ; 
+        if(ans.size()==1) return ans[0][ans[0].size()-1] ;
         for(int i = 0 ; i < min(ans[0].size(),ans[1].size()) ; i++){
             if(ans[0][i]==ans[1][i]) node = ans[0][i] ;
             else  break ; 
