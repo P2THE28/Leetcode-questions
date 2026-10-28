@@ -32,6 +32,7 @@ public:
         }
     }
     long long kthLargestLevelSum(TreeNode* root, int k) {
+        arr.clear() ;
         kthlevel(root) ;
         if(arr.size()<k){
             return -1 ; 
