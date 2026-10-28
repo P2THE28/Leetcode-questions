@@ -9,34 +9,19 @@
  */
 class Solution {
 public:
-    //method1 :
-    vector<vector<TreeNode*>> ans ; 
-    void search(TreeNode* root ,TreeNode* p ,TreeNode* q , vector<TreeNode*>&arr ){
-        if(root==NULL) return ; 
-        if(root==p || root==q){
-            ans.push_back(arr) ;
-            return ; 
-        }
-        arr.push_back(root->left) ; 
-        search(root->left,p,q,arr);
-        arr.pop_back() ;
-        arr.push_back(root->right);
-        search(root->right,p,q,arr) ;
-        arr.pop_back() ;
-        return ; 
-    }
-
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        ans.clear() ;
-        vector<TreeNode*> arr ;
-        arr.push_back(root) ;
-        search(root,p,q,arr) ;
-        TreeNode* node = NULL ; 
-        if(ans.size()==1) return ans[0][ans[0].size()-1] ;
-        for(int i = 0 ; i < min(ans[0].size(),ans[1].size()) ; i++){
-            if(ans[0][i]==ans[1][i]) node = ans[0][i] ;
-            else  break ; 
+        if(root==NULL) return NULL ; 
+        if(root==p || root == q) return root ; 
+        TreeNode* leftLCA = lowestCommonAncestor(root->left,p,q) ;
+        TreeNode* rightLCA = lowestCommonAncestor(root->right,p,q) ;
+        if(leftLCA!=NULL && rightLCA != NULL) {
+            return root ;  
+        }else if (leftLCA!=NULL && rightLCA == NULL){
+            return leftLCA ; 
+        }else if (leftLCA==NULL && rightLCA != NULL){
+            return rightLCA ; 
+        }else {
+            return NULL ; 
         }
-        return node ; 
     }
 };
