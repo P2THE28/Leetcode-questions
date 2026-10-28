@@ -16,12 +16,10 @@ public:
         TreeNode* rightLCA = lowestCommonAncestor(root->right,p,q) ;
         if(leftLCA!=NULL && rightLCA != NULL) {
             return root ;  
-        }else if (leftLCA!=NULL && rightLCA == NULL){
+        }else if (leftLCA!=NULL){
             return leftLCA ; 
-        }else if (leftLCA==NULL && rightLCA != NULL){
+        }else{
             return rightLCA ; 
-        }else {
-            return NULL ; 
         }
     }
 };
