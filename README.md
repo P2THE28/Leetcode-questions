@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/P2THE28/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/P2THE28/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/P2THE28/Leetcode-questions/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/P2THE28/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/P2THE28/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/P2THE28/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/P2THE28/Leetcode-questions/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/P2THE28/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/P2THE28/Leetcode-questions/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/P2THE28/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2523-closest-prime-numbers-in-range](https://github.com/P2THE28/Leetcode-questions/tree/master/2523-closest-prime-numbers-in-range) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/P2THE28/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/P2THE28/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/P2THE28/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/P2THE28/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/P2THE28/Leetcode-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/P2THE28/Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/P2THE28/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
