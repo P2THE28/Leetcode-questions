@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/P2THE28/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/P2THE28/Leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/P2THE28/Leetcode-questions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/P2THE28/Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/P2THE28/Leetcode-questions/tree/master/0946-validate-stack-sequences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/P2THE28/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1943-describe-the-painting](https://github.com/P2THE28/Leetcode-questions/tree/master/1943-describe-the-painting) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/P2THE28/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/P2THE28/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/P2THE28/Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/P2THE28/Leetcode-questions/tree/master/0946-validate-stack-sequences) |
 ## Bracket Sequences
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/P2THE28/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/P2THE28/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/P2THE28/Leetcode-questions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
