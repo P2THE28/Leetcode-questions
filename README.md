@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/P2THE28/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/P2THE28/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/P2THE28/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/P2THE28/Leetcode-questions/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/P2THE28/Leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/P2THE28/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/P2THE28/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/P2THE28/Leetcode-questions/tree/master/0394-decode-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/P2THE28/Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/P2THE28/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/P2THE28/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/P2THE28/Leetcode-questions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/P2THE28/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/P2THE28/Leetcode-questions/tree/master/0739-daily-temperatures) |
