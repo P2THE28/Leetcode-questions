@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/P2THE28/Leetcode-questions/tree/master/0946-validate-stack-sequences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/P2THE28/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1943-describe-the-painting](https://github.com/P2THE28/Leetcode-questions/tree/master/1943-describe-the-painting) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/P2THE28/Leetcode-questions/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/P2THE28/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1248-count-number-of-nice-subarrays](https://github.com/P2THE28/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1943-describe-the-painting](https://github.com/P2THE28/Leetcode-questions/tree/master/1943-describe-the-painting) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/P2THE28/Leetcode-questions/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Math
 |  |
 | ------- |
