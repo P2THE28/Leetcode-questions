@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/P2THE28/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1943-describe-the-painting](https://github.com/P2THE28/Leetcode-questions/tree/master/1943-describe-the-painting) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/P2THE28/Leetcode-questions/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3242-design-neighbor-sum-service](https://github.com/P2THE28/Leetcode-questions/tree/master/3242-design-neighbor-sum-service) |
 ## Backtracking
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/P2THE28/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1943-describe-the-painting](https://github.com/P2THE28/Leetcode-questions/tree/master/1943-describe-the-painting) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/P2THE28/Leetcode-questions/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3242-design-neighbor-sum-service](https://github.com/P2THE28/Leetcode-questions/tree/master/3242-design-neighbor-sum-service) |
 ## Math
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/P2THE28/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/P2THE28/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/P2THE28/Leetcode-questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [3242-design-neighbor-sum-service](https://github.com/P2THE28/Leetcode-questions/tree/master/3242-design-neighbor-sum-service) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/P2THE28/Leetcode-questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [3242-design-neighbor-sum-service](https://github.com/P2THE28/Leetcode-questions/tree/master/3242-design-neighbor-sum-service) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/P2THE28/Leetcode-questions/tree/master/0946-validate-stack-sequences) |
+| [3242-design-neighbor-sum-service](https://github.com/P2THE28/Leetcode-questions/tree/master/3242-design-neighbor-sum-service) |
 ## Tree
 |  |
 | ------- |
