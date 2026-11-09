@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/P2THE28/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/P2THE28/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/P2THE28/Leetcode-questions/tree/master/0394-decode-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/P2THE28/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/P2THE28/Leetcode-questions/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/P2THE28/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/P2THE28/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/P2THE28/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/P2THE28/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1248-count-number-of-nice-subarrays](https://github.com/P2THE28/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/P2THE28/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/P2THE28/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/P2THE28/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/P2THE28/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/P2THE28/Leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/P2THE28/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
