@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/P2THE28/Leetcode-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/P2THE28/Leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/P2THE28/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/P2THE28/Leetcode-questions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/P2THE28/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/P2THE28/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/P2THE28/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/P2THE28/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/P2THE28/Leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/P2THE28/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/P2THE28/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/P2THE28/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/P2THE28/Leetcode-questions/tree/master/0257-binary-tree-paths) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/P2THE28/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/P2THE28/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/P2THE28/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/P2THE28/Leetcode-questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/P2THE28/Leetcode-questions/tree/master/0141-linked-list-cycle) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/P2THE28/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/P2THE28/Leetcode-questions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/P2THE28/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/P2THE28/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
