@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/P2THE28/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/P2THE28/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/P2THE28/Leetcode-questions/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/P2THE28/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/P2THE28/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/P2THE28/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/P2THE28/Leetcode-questions/tree/master/0394-decode-string) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/P2THE28/Leetcode-questions/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/P2THE28/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/P2THE28/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/P2THE28/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/P2THE28/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/P2THE28/Leetcode-questions/tree/master/0496-next-greater-element-i) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/P2THE28/Leetcode-questions/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/P2THE28/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/P2THE28/Leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1943-describe-the-painting](https://github.com/P2THE28/Leetcode-questions/tree/master/1943-describe-the-painting) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/P2THE28/Leetcode-questions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
